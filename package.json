@@ -4,5 +4,6 @@
   },
   "scripts": {
     "start": "parcel src/index.html",
+   "build" : "npx -p parcel-bundler parcel build index.html",
   }
 }
