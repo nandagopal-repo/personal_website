@@ -3,7 +3,6 @@
     "parcel": "^2.6.2"
   },
   "scripts": {
-    "start": "parcel src/index.html",
-   "build" : "npx -p parcel-bundler parcel build index.html",
+    "start": "parcel src/index.html"
   }
 }
